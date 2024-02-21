@@ -1,0 +1,1 @@
+# This module will automate https://docs.oracle.com/en/learn/ocvs-dns-resolution-public-urls/#related-links based on the parameters in /OCI-OCVS-DR/terraform.tfvars
